@@ -1,0 +1,2 @@
+# RHCSA_Reset_Root_Password
+RHCSA_Reset_Root_Password
